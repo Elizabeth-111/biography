@@ -1,6 +1,6 @@
 # 👩‍💻 About Me - Personal Web Profile
 
-This is a clean, responsive **"About Me"** webpage built using HTML and CSS. It serves as a simple digital introduction and portfolio overview for **Elizabeth Reji**, a Computer Science and Engineering student with an interest in front-end development.
+This is a clean, responsive **"About Me"** webpage built using HTML and CSS. It serves as a simple digital introduction and portfolio.
 
 ---
 
